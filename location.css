@@ -1,0 +1,29 @@
+.address{
+    border: 1px solid rgb(146, 146, 146);
+    text-align: center;
+    margin: 10px;
+    background-color: rgb(221, 219, 219);
+    color: rgb(28, 15, 15);
+    flex: 1;
+    height: 200px;
+}
+.mapouter {
+    position: relative;
+    text-align: right;
+    height: 518px;
+    width: 529px;
+    flex: 1;
+}
+.gmap_canvas {
+    overflow: hidden;
+    background: none !important;
+    height: 518px;
+    width: 529px;
+}
+.main-location{
+    display: flex;
+    flex-direction: row;
+    margin: 30px;
+}
+
+

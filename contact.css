@@ -1,0 +1,46 @@
+.social-media img{
+    width: 20px ;
+    margin: 3px;
+}
+.form-control{
+    box-shadow: 1px 1px 5px black;
+    width: 400px;
+    margin: 100px;
+    padding: 20px;
+    background-color: rgb(126, 126, 177);
+    color: aliceblue;
+    text-align: center;
+    border-radius: 5px;
+}
+.input{
+    border:.2px solid gray;
+    margin: 20px;
+    display: block;
+    width: 350px;
+    height: 30px;
+   
+}
+.submit{
+    padding: 8px 30px 8px 30px;
+    border: none;
+    background-color: rgb(74, 57, 148);
+    border-radius: 3px;
+    color: aliceblue;
+}
+.submit:hover{
+    opacity: .5;
+    cursor: pointer;
+}
+.name{
+    margin: 10px;
+}
+.social-media{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+.textarea{
+    margin: 20px;
+    border:.2px solid gray;
+}
